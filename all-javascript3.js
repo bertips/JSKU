@@ -40,10 +40,10 @@ var LazyAnalytics=false;window.addEventListener("scroll",function(){(0!=document
    
    function _0x4cb6() {
      /** @type {!Array} */
-     var cookie = ["getAttribute", "hdn", "value", "/js/CookieConsent.min.js", "translate", "log", "/js/AdditionalJavascript.min.js", "scroll", "block", "/js/Ads.js", "adstr-js", "#postBody", "once", "rPst-css", "/js/AutoRelated.min.js", "addEventListener", "mobileFonts", "88pSWAcA", "#postBody h1, #postBody h2, #postBody h3, #postBody h4, #postBody h5, #postBody h6", "analytics", "/css/CountdownDownloadBox.min.css", "/css/RelatedPosts.min.css", "CookiePolicy", "toc-css", "getElementsByTagName", 
-     "#admCk", "gTranslate", "auth-css", "#aRel", "hl-js", "#autoToc", "/css/ThemeColor.min.css", "style", "goog-te-gadget-simple", "getComputedStyle", "forEach", "https://authorization.css?targetBlogID=", "key", "333535hIMlxT", ".gTrans", "length", "google_translate_element", "dataLayer", "#rPst", "apps", "data-text", "includedLangs", "generateToc", "data-id", "hidden", "689424xeHwjS", "323733aTlAFg", "propertyID", "license", "pre-js", "/js/TableOfContents.min.js", "SIMPLE", 
+     var cookie = ["getAttribute", "hdn", "value", "/js/CookieConsent.min.js", "translate", "log", "/js/AdditionalJavascript.min.js", "scroll", "block", "", "adstr-js", "#postBody", "once", "rPst-css", "/js/AutoRelated.min.js", "addEventListener", "mobileFonts", "88pSWAcA", "#postBody h1, #postBody h2, #postBody h3, #postBody h4, #postBody h5, #postBody h6", "analytics", "/css/CountdownDownloadBox.min.css", "/css/RelatedPosts.min.css", "CookiePolicy", "toc-css", "getElementsByTagName", 
+     "#admCk", "gTranslate", "auth-css", "#aRel", "hl-js", "#autoToc", "/css/ThemeColor.min.css", "style", "goog-te-gadget-simple", "getComputedStyle", "forEach", "", "key", "333535hIMlxT", ".gTrans", "length", "google_translate_element", "dataLayer", "#rPst", "apps", "data-text", "includedLangs", "generateToc", "data-id", "hidden", "689424xeHwjS", "323733aTlAFg", "propertyID", "license", "pre-js", "/js/TableOfContents.min.js", "SIMPLE", 
      "cdb-js", "data-add", "/lib/translate.js", ".isBkm", "https://cdn.jsdelivr.net/gh/idnblogpro/idn@main", "TranslateElement", "606576QKPIUR", "script", "/js/CountdownDownloadBox.min.js", "78xmriAA", "pageLang", "aRel-js", "/js/CopyPreContent.min.js", "abv", "aChp-js", "bkm-css", "multiLangPage", "https://www.gstatic.com/firebasejs/8.4.2/firebase-database.js", "bkm-js", "set", "/css/BookmarkPosts.min.css", "1988710Lmkjfj", "Lz_JsM", "documentElement", "ck-css", "InlineLayout", "/css/TableOfContents.min.css", 
-     "/js/MusicPlayer.min.js", "Lz_Js", "toc-js", "www.bertips.com", "autoDisplay", "#musicPlayer", "gLS", "thmC-css", "setAttribute", "noInt-js", "/css/MusicPlayer.min.css", "https://gtag/js?id=", "/lib/vue-2.6.11.min.js", "exists", "#ckWrap", "highlightElement", "body", "#postToc", "msp-css", "fb-app", "textContent", "div.hl pre", "adsenAds", "fb-db", "loadType", "head", "display", "val", "12ByyvvB", "https://www.gstatic.com/firebasejs/8.4.2/firebase-app.js", "rPst-js", 
+     "/js/MusicPlayer.min.js", "Lz_Js", "toc-js", "www.bertips.com", "autoDisplay", "#musicPlayer", "gLS", "thmC-css", "setAttribute", "noInt-js", "/css/MusicPlayer.min.css", " ", "/lib/vue-2.6.11.min.js", "exists", "#ckWrap", "highlightElement", "body", "#postToc", "msp-css", "fb-app", "textContent", "div.hl pre", "", "fb-db", "loadType", "head", "display", "val", "12ByyvvB", "https://www.gstatic.com/firebasejs/8.4.2/firebase-app.js", "rPst-js", 
      "ref", "true", "styleFonts", "databaseUrl", "64603Xzmjwj", "/js/NoInternetWidget.min.js", "Licensed to: ", "gt-js", "msp-js", "abbreviation", "fontFamily", "createElement", "#maintainCont", ".pu-views", "18CRuwuO", "ck-js", "/js/BookmarkPosts.min.js", "scrollTop", "/PostID_", "database", "databaseURL", "defer", "165627WhFaHF", "src", "adtnl-js", "sLS", "realViews", "push"];
      /**
       * @return {?}
@@ -120,6 +120,7 @@ var LazyAnalytics=false;window.addEventListener("scroll",function(){(0!=document
          ldCss(baseUrl + getBaseURL(539), getBaseURL(599));
        }
      });
+
      if (null != typeof PuSet[now(561)][now(545)]) {
        if ("true" == isSingleItem) {
          ldJs(baseUrl + now(577), now(562), true, now(608));
@@ -269,6 +270,7 @@ var LazyAnalytics=false;window.addEventListener("scroll",function(){(0!=document
            });
          }
        }, 100);
+
        lazyCustomJs();
      }
    }
@@ -304,4 +306,3 @@ var LazyAnalytics=false;window.addEventListener("scroll",function(){(0!=document
        var _0x2edec5 = _0xe4d909;
        0x0 == aryLzJs[_0x2edec5(0x224)] && null == Pu[_0x2edec5(0x256)]('Lz_Js') && (loadLzJs(), Pu['sLS'](_0x2edec5(0x251), 0x1)), 0x0 == aryLzJsM[_0x2edec5(0x224)] && null == Pu[_0x2edec5(0x256)](_0x2edec5(0x24b)) && (loadLzJsM(), Pu[_0x2edec5(0x1f9)]('Lz_JsM', 0x1))
    }), Pu[_0xe4d909(0x256)](_0xe4d909(0x251)) && loadLzJs(), Pu[_0xe4d909(0x256)](_0xe4d909(0x24b)) && loadLzJsM();/*]]>*/
-
